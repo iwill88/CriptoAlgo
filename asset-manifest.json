@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CriptoAlgo/static/css/main.869d81b1.css",
-    "main.js": "/CriptoAlgo/static/js/main.3c643371.js",
+    "main.css": "/CriptoAlgo/static/css/main.ca741553.css",
+    "main.js": "/CriptoAlgo/static/js/main.0c78d2a1.js",
     "static/media/primera-seccion-fondo.jpg": "/CriptoAlgo/static/media/primera-seccion-fondo.f42b2b2936753c2fdd3c.jpg",
     "index.html": "/CriptoAlgo/index.html",
-    "main.869d81b1.css.map": "/CriptoAlgo/static/css/main.869d81b1.css.map",
-    "main.3c643371.js.map": "/CriptoAlgo/static/js/main.3c643371.js.map"
+    "main.ca741553.css.map": "/CriptoAlgo/static/css/main.ca741553.css.map",
+    "main.0c78d2a1.js.map": "/CriptoAlgo/static/js/main.0c78d2a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.869d81b1.css",
-    "static/js/main.3c643371.js"
+    "static/css/main.ca741553.css",
+    "static/js/main.0c78d2a1.js"
   ]
 }
